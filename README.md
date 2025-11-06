@@ -5,3 +5,5 @@ Durante este proyecto aprendí a:
   Manejar estados y efectos con useState y useEffect.
   Trabajar con promesas y asincronía en JavaScript.
   Diseñar una interfaz sencilla y responsive.
+
+![Captura principal](./assets/screenshot.png)
